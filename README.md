@@ -1,4 +1,4 @@
-# ManHunt-Minecraft-Plugin works only on 1.17 and above
+# ManHunt-Minecraft-Plugin (release works only on 1.17 and above)
 Use /hunter add/remove [nickname] [nickname] [...] to add or remove players to hunter team.
 
 Use /runner add/remove [nickname] [...] to do the same but to runner team. 
