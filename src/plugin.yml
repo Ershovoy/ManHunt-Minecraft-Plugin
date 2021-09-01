@@ -1,0 +1,17 @@
+name: ManHunt
+main: me.Ersh.ManHunt.main
+version: 1.0
+
+commands:
+  runner:
+    description:
+    usage: /runner add/remove [player] [player].
+  hunter:
+    description:
+    usage: /hunter add/remove [player] [player].
+  start:
+    usage: /start
+  startwithoutdying:
+    usage: /startwithoutdying
+  manhunt:
+    usage: /manhunt classic/infectious
